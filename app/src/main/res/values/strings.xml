@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab_jivan_kadel</string>
+    <string name="login_title">Login to your Account</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_btn_login">Login</string>
+    <string name="contact_icon">Contact Icon</string>
+    <string name="jivan">Jivan Kadel</string>
+    <string name="phone_default">9812345678</string>
+    <string name="jivan_with_age">Jivan Kadel, 20</string>
+    <string name="default_faculty">BCA</string>
+    <string name="post_body_default">This is the post body. I don\'t what the default looks like.</string>
+</resources>
