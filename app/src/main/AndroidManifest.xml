@@ -35,10 +35,10 @@
             android:name=".layout.LoginActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".json.PostsActivity"
             android:exported="false" />
         <activity
-            android:name=".json.PostsActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
